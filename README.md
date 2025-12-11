@@ -37,6 +37,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/imettsberg)
 [![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/your-handle)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/user/your-handle)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white)](https://vm.tiktok.com/ZSJ5wwVAH/)
 
 <!-- If you prefer text links:
 - Telegram: [@YC0112_425_517](https://t.me/YC0112_425_517)
